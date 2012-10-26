@@ -1,6 +1,21 @@
 # Chiropractor
 
-TODO: Write a gem description
+I miss ActiveSupport. I really do. The javascript standard library is lacking. So this is a collection of some useful Backbone and Underscore components. Saves me from having to keep downloading them into every project. This seems like a reasonable stack that gives you pretty powerful framework for building backbone apps.
+
+Included:
+
+* Underscore.Inflector: https://github.com/jeremyruppel/underscore.inflection
+* Underscore.String: https://github.com/epeli/underscore.string
+* Backbone.Marionette: https://github.com/marionettejs/backbone.marionette
+* Backbone.Relational: https://github.com/PaulUithol/Backbone-relational
+* Backbone.ModelBinder: https://github.com/theironcook/Backbone.ModelBinder
+* AccountingJS: http://josscrowcroft.github.com/accounting.js/
+* MomentJS: https://github.com/timrwood/moment/
+
+Also have a couple extensions:
+
+* Backbone.LayoutRegion: Combines Layouts and Regions from Marionette
+* Backbone.JST: Adds JST support to Marionette
 
 ## Installation
 
@@ -18,7 +33,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```javascript
+//= require chiropractor
+```
 
 ## Contributing
 
