@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Chiropractor::VERSION
   gem.authors       = ["Andrew Eberbach"]
   gem.email         = ["andrew@ebertech.ca"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{A helpful collection of tools to help your Backbone}
+  gem.summary       = %q{A helpful collection of tools to help your Backbone}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
