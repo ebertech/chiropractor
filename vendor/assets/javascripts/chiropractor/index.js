@@ -1,0 +1,13 @@
+//= require jquery
+//= require jquery_ujs
+//= require underscore
+//= require ./underscore.string
+//= require ./underscore.inflection
+//= require backbone
+//= require backbone.marionette
+//= require ./Backbone.ModelBinder
+//= require ./backbone-relational
+//= require ./backbone.layoutRegion
+//= require ./backbone.jst
+//= require ./moment
+//= require ./accounting
